@@ -63,7 +63,7 @@ Solana dApp Store:
 
 - App publishing tools & guidelines: _Planned_
 
-Solana Pay:
+Solana Pay:4dZWcAb6bm63hGFANmiQ5fHmnUNkHkz9LqgmC5qaeE8r
 
 - Sample Android integration: v1.0
 
